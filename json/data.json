@@ -1,0 +1,104 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "thumbnail": "/projects/SPARKA/sparka-01.jpeg",
+      "title": "LMS Moodle : Serpihan",
+      "desc": [
+        "SPARKA (Smart Parking System) is a cutting-edge platform that integrates modern web technologies with machine learning to streamline parking management. Developed using Next.js, Tailwind CSS, and Docker, SPARKA offers real-time monitoring of parking availability, intuitive role-based interfaces, and intelligent space prediction driven by AI models.",
+        "In this project, I led the development of a robust and scalable web application featuring distinct dashboards for users, administrators, and parking operators. The backend services were built using Lumen (PHP) to manage reservation logic, database interactions, and real-time data processing efficiently.",
+        "Collaborated actively with IoT and AI engineers to design the system architecture, enabling seamless integration with smart sensors and predictive algorithms for optimized space utilization. The entire application was deployed on Google Cloud Platform (GCP) using Docker containers and Cloud Run, ensuring high reliability, scalability, and maintainability.",
+        "Worked closely with the UI/UX team to craft responsive and user-centric interfaces, resulting in a smooth and accessible user experience across multiple device types and user roles."
+      ],
+      "year": "Ongoing",
+      "preview": "https://moodle.serpihantech.com/",
+      "code": "",
+      "images": ["/projects/SPARKA/sparka-01.jpeg"],
+      "tech": ["Moodle", "Ollama"],
+      "slug": "Moodle",
+      "category": 2
+    },
+    {
+      "show": true,
+      "thumbnail": "/projects/PlesiranJogja/Plesiranjogjalogo.png",
+      "title": "PlesiranJogja",
+      "desc": [
+        "Plesiran Jogja is an innovative digital platform designed to provide in-depth travel information and personalized recommendations for those looking to explore Yogyakarta. The platform offers structured content on various tourist destinations, culinary experiences, and local culture, along with additional features such as trip packages, hotel accommodations, and vehicle rental services to simplify the travel planning process. By delivering well-organized and accessible information, Plesiran Jogja enables travelers to create meaningful and efficient travel experiences. The platform not only enhances convenience for tourists but also supports cultural preservation and the promotion of sustainable local tourism."
+      ],
+      "year": "2024",
+      "preview": "https://github.com/EsCore-Team/mobile-development/releases/download/v1.0.0/app-release.apk",
+      "code": "https://github.com/EsCore-Team",
+      "images": [
+        "/projects/PlesiranJogja/Plesiranjogjalogo.png",
+        "/projects/PlesiranJogja/PlesiranJogja-00.png",
+        "/projects/PlesiranJogja/PlesiranJogja-07.png",
+        "/projects/PlesiranJogja/PlesiranJogja-01.jpg",
+        "/projects/PlesiranJogja/PlesiranJogja-02.jpg",
+        "/projects/PlesiranJogja/PlesiranJogja-03.jpg",
+        "/projects/PlesiranJogja/PlesiranJogja-04.jpg",
+        "/projects/PlesiranJogja/PlesiranJogja-05.jpg",
+        "/projects/PlesiranJogja/PlesiranJogja-06.jpg"
+      ],
+      "tech": ["MongoDB", "Express.js", "React", "Node.js"],
+      "slug": "PlesiranJogja",
+      "category": 2
+    },
+    {
+      "show": true,
+      "thumbnail": "/projects/DicodingEvent/dicoding-event-01.png",
+      "category": 1,
+      "title": "GlowWell",
+      "desc": [
+        "Dicoding Event is an Android application designed to help users discover, save, and participate in various events hosted on the Dicoding platform. The app offers a seamless user experience with features tailored to enhance event discovery and participation.",
+        "Built with Kotlin and MVVM architecture, it features event browsing, favorites management, a search function, dark mode, and daily reminders."
+      ],
+      "year": "2024",
+      "code": "https://github.com/whdhdyt21/Dicoding-Event",
+      "images": ["/projects/DicodingEvent/dicoding-event-01.png"],
+      "tech": ["UI/UX Design"],
+      "slug": "Glowwell"
+    },
+    {
+      "show": true,
+      "thumbnail": "/projects/Asclepius/Asclepius-01.png",
+      "category": 1,
+      "title": "CampBrom",
+      "desc": [
+        "Cambrom is an innovative app designed to make it easier for nature lovers and mountaineers to borrow quality hiking gear. The app offers a practical solution for those who need hiking equipment but don't want the hassle of buying or storing rarely used equipment. With a user-friendly design, Cambrom connects users with hiking gear providers quickly and efficiently."
+      ],
+      "year": "2024",
+      "code": "https://github.com/whdhdyt21/Cancer-Detection",
+      "images": ["/projects/Asclepius/Asclepius-01.png"],
+      "tech": ["UI/UX Design"],
+      "slug": "CampBrom"
+    },
+    {
+      "show": true,
+      "thumbnail": "/projects/Asclepius/Asclepius-01.png",
+      "category": 1,
+      "title": "SiPear",
+      "desc": [
+        "The SIPEAR application or Tool and Room Borrowing System is a software platform designed to facilitate and manage the process of borrowing tools and spaces efficiently in an organization or institution."
+      ],
+      "year": "2024",
+      "code": "https://github.com/whdhdyt21/Cancer-Detection",
+      "images": ["/projects/Asclepius/Asclepius-01.png"],
+      "tech": ["Flutter", "FireBase"],
+      "slug": "asclepius"
+    },
+    {
+      "show": true,
+      "thumbnail": "/projects/Asclepius/Asclepius-01.png",
+      "category": 1,
+      "title": "Web Sepuh",
+      "desc": [
+        "Web Sepuh is an online course platform specifically designed to help users learn programming from basic to advanced levels. The website is designed with a modern and easy-to-use interface, making it easier for students to access learning materials, take classes, and interact with instructors."
+      ],
+      "year": "2024",
+      "code": "https://github.com/whdhdyt21/Cancer-Detection",
+      "images": ["/projects/Asclepius/Asclepius-01.png"],
+      "tech": ["UI/UX Design"],
+      "slug": "WebSepuh"
+    }
+  ]
+}
