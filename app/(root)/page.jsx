@@ -108,9 +108,7 @@ const MyPage = () => {
                   >
                     <Button variation="primary">
                       <Link
-                        href={
-                          "/docs/CV Wahid Hidayat - Mobile Developer & Project Manager.pdf"
-                        }
+                        href={"/docs/CVDBD.pdf"}
                         target="_blank"
                         rel="noopener noreferrer"
                         locale={false}
